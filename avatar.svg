@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Retrato ilustrado de María">
+  <defs>
+    <clipPath id="portrait"><circle cx="256" cy="256" r="256"/></clipPath>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8f3ed"/><stop offset="1" stop-color="#cde5d9"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#24836d"/><stop offset="1" stop-color="#125743"/></linearGradient>
+  </defs>
+  <g clip-path="url(#portrait)">
+    <rect width="512" height="512" fill="url(#background)"/>
+    <circle cx="256" cy="247" r="198" fill="#d8ebe1"/>
+    <path d="M82 512c9-105 66-159 145-174l29 19 29-19c81 15 138 69 145 174z" fill="url(#shirt)"/>
+    <path d="M218 326h76v79c-21 23-55 23-76 0z" fill="#bd7658"/>
+    <path d="M154 190c-7-91 37-145 105-145 76 0 113 57 105 154l-9 113c-3 53-42 92-97 92-54 0-94-39-97-92z" fill="#33251f"/>
+    <path d="M169 188c0-69 36-111 87-111 54 0 88 42 88 111v114c0 56-39 92-88 92-48 0-87-36-87-92z" fill="#d99874"/>
+    <path d="M165 207c-17-49-6-105 17-137 10 28 31 40 58 37 36-4 63-23 78-47 42 31 54 88 38 145-18-16-32-39-41-65-33 33-84 50-150 49z" fill="#33251f"/>
+    <path d="M184 226c11-10 25-13 39-8" fill="none" stroke="#54372e" stroke-width="7" stroke-linecap="round"/>
+    <path d="M287 218c14-6 28-3 39 8" fill="none" stroke="#54372e" stroke-width="7" stroke-linecap="round"/>
+    <ellipse cx="205" cy="245" rx="7" ry="9" fill="#30251f"/>
+    <ellipse cx="306" cy="245" rx="7" ry="9" fill="#30251f"/>
+    <path d="M254 248c-2 20-10 35-5 41 4 4 11 5 17 2" fill="none" stroke="#b87559" stroke-width="5" stroke-linecap="round"/>
+    <path d="M229 303c17 17 43 17 60 0" fill="none" stroke="#914d43" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="190" cy="279" rx="19" ry="9" fill="#e8897d" opacity=".28"/>
+    <ellipse cx="323" cy="279" rx="19" ry="9" fill="#e8897d" opacity=".28"/>
+    <path d="m221 374 35 28 35-28-13 55h-44z" fill="#f5f3e9"/>
+    <path d="m246 403 10 10 10-10-10 39z" fill="#d69a73"/>
+    <path d="M83 512c7-64 27-111 65-142l62 33 46 109z" fill="#176b58" opacity=".55"/>
+    <path d="M429 512c-7-64-27-111-65-142l-62 33-46 109z" fill="#0e5142" opacity=".55"/>
+  </g>
+</svg>
